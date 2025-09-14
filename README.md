@@ -4,7 +4,7 @@
 
 - 🔥 Junior Web Developer & Enthusiast in the world of technology
 
-- 🔭 I’m currently working at [LabHosting]([https://github.com/Rocketseat](https://labhosting.com.br/))
+- 🔭 I’m currently working on [klipit]([https://github.com/klipitdotfun](https://klipit.fun/))
 
 
 - 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, .Lua, C#, React**
@@ -37,19 +37,19 @@
 
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/CroakDev" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-CroakDev-05122A?style=flat&logo=codepen" alt="codepen"/>
+  <img align="center" src="https://img.shields.io/badge/-vinc1xx-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
 <a href="https://twitter.com/CroakDev" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-CroakDev-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-vinc1xx-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/CroakDev" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-CroakDev-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-vinc1xx-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="https://instagram.com/cadu_ayres" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-CroakDev-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-vinc1xx-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 <a href="https://www.youtube.com/channel/UCT8F2daj8p_9OKwR46R2qQA" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-CroakDev-05122A?style=flat&logo=youtube" alt="youtube"/>
+ <img align="center" src="https://img.shields.io/badge/-vinc1xx-05122A?style=flat&logo=youtube" alt="youtube"/>
 </a>
 </p>
 
@@ -62,12 +62,4 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
