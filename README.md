@@ -1,16 +1,5 @@
-<img align="right" height="590em" src="https://media.discordapp.net/attachments/934932555407454278/1193741190223372510/image.png"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Croak Dev</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=CroakDev&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer & Enthusiast in the world of technology
-
-- 🔭 I’m currently working on [klipit]([https://github.com/klipitdotfun](https://klipit.fun/))
-
-
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS, .Lua, C#, React**
-
-- ⚡ Fun fact **Oneye 😜**
-
+- I’m currently working on [klipit]([https://github.com/klipitdotfun](https://klipit.fun/))
 
 <br><br>
 
