@@ -1,5 +1,5 @@
 
-- I’m currently working on [the circle experiment]((https://thecircleexperiment.xyz/))
+- I’m currently working on [FOMO APP]((https://fomoapp.bet/))
 
 <br><br>
 
