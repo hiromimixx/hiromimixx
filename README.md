@@ -1,5 +1,5 @@
 
-- I’m currently working on [FOMO APP]((https://fomoapp.bet/))
+- I’m currently working on [The X402 Circle Experiment]((https://fomoapp.bet/))
 
 <br><br>
 
